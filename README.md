@@ -6,7 +6,7 @@ A lightweight local RAG (Retrieval-Augmented Generation) agent built with Python
 
 - 🔍 Retrieval-augmented generation using ChromaDB
 - 💬 Natural language Q&A with local LLM (LLaMA 3.2 via Ollama)
-- 📁 Loads and indexes a CSV of restaurant reviews
+- 📁 Loads and indexes a CSV 
 - 🔄 Continually accepts user input in a terminal chat loop
 - 🧠 Powered entirely by local embeddings and inference
 
